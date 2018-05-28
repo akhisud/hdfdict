@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import h5py
 import yaml
-from collections import UserDict
+from UserDict import UserDict
 from datetime import datetime
 from numpy import string_
 from contextlib import contextmanager
